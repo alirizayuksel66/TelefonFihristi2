@@ -1,0 +1,8 @@
+table,td,th{
+    border: 1px solid black;
+}
+
+.duzen{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
